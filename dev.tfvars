@@ -1,0 +1,7 @@
+aws_region     = "us-east-1"
+aws_profile    = "demo"
+name_prefix    = "aa"
+vpc_cidr_block = "10.0.0.0/16"
+ami_id         = "ami-0c5b8361144eef38b"
+domain_name    = "prod.ganeshvasa.me"
+db_password    = "Ganesh*1234"
